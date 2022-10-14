@@ -1,0 +1,31 @@
+#Title01{
+  text-align: center;
+  color: black;
+}
+
+ul{
+  list-style: none;
+  margin-left:550px;
+  margin-right: 300px;
+  margin-top: 250px;
+
+  position: fixed;
+}
+li{
+
+  float: left;
+  border-radius: 0.2px;
+  border-style: double;
+
+}
+li a{
+  text-align: center;
+  padding: 5px;
+  width: 100px
+  background-color: white;
+  display: block;
+
+}
+li a:hover{
+  background-color: yellow;
+}
